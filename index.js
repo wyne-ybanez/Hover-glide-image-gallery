@@ -18,7 +18,7 @@ window.onmousemove = (e) => {
       transform: `translate(${panX}px, ${panY}px)`,
     },
     {
-      duration: 10000,
+      duration: 15000,
       fill: "forwards",
       easing: "ease-in",
     }

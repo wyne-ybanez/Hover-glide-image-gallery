@@ -5,6 +5,6 @@
 - Pan screen over as mouse moves
 - Show images like a gallery
 
-### Credits:
+### Credits:
 - Palette Supply: https://palette.supply
 - Hyperplexed: https://youtu.be/GHZBa_R93ag
